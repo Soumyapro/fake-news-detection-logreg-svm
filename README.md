@@ -4,7 +4,7 @@ A machine learning pipeline that classifies news articles as **Real** or **Fake*
 
 ## Overview
 
-This project builds and compares two text classification models to detect fake news articles. It includes full preprocessing, model training, performance evaluation, manual testing on custom examples, and an honest look at a data leakage issue discovered during evaluation.
+This project builds and compares two text classification models to detect fake news articles. It includes full preprocessing, model training, performance evaluation, manual testing on custom examples.
 
 ## Dataset
 
